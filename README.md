@@ -1,1 +1,1 @@
-# git_test
+This is my (James's ) first fucking git project
